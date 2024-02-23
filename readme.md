@@ -1,2 +1,2 @@
-# Naive implementation of multimodalling
+# Naiive implementation of multimodalling
 >without data preprocessing
